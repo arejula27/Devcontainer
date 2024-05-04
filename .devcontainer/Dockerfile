@@ -20,8 +20,3 @@ COPY ./provision.sh /home/arejula27-dev/provision.sh
 RUN sudo chmod +x /home/arejula27-dev/provision.sh
 
 # Install project dependencies
-
-
-USER arejula27-dev 
-
-
